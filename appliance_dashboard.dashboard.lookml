@@ -8,7 +8,7 @@
   elements:
 
   - name: appliance_dashboard
-    title: 'Appliance Dashboard'
+    title: 'Appliance Chart(change name)'
     type: looker_column
     model: test_upgrade
     explore: appliances
