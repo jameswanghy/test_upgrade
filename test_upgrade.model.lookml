@@ -4,6 +4,8 @@
 - include: "*.dashboard.lookml"  # include all the dashboards
 
 - explore: appliances
+
+- explore: visitors
 #   joins:
 #     - join: regions
 #       type: left_outer 
