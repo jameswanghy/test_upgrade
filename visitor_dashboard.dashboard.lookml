@@ -8,7 +8,7 @@
   elements:
 
   - name: visitor_chart
-    title: 'Visitor Chart(change name test2)'
+    title: 'Visitor Chart(change name test3)'
     type: looker_line
     model: test_upgrade
     explore: visitors
